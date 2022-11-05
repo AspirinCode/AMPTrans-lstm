@@ -19,9 +19,10 @@ modlamp>=4.2.3
 
 
 ## Transformer_AA
+```python
 train:
 python train_eval.py
 
 finetune:
 python finetuning.py
-
+```
