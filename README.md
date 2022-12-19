@@ -26,3 +26,6 @@ python train_eval.py
 finetune:
 python finetuning.py
 ```
+## Cite:
+
+Application of a deep generative model produces novel and diverse functional peptides against microbial resistance (Accepted by Computational and Structural Biotechnology Journal)
