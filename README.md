@@ -28,4 +28,5 @@ python finetuning.py
 ```
 ## Cite:
 
-Application of a deep generative model produces novel and diverse functional peptides against microbial resistance (Accepted by Computational and Structural Biotechnology Journal)
+Mao, Jiashun, Shenghui Guan, Yongqing Chen, Amir Zeb, Qingxiang Sun, Ranlan Lu, Jie Dong, Jianmin Wang, and Dongsheng Cao. "Application of a deep generative model produces novel and diverse functional peptides against microbial resistance." Computational and Structural Biotechnology Journal (2022).
+https://doi.org/10.1016/j.csbj.2022.12.029
